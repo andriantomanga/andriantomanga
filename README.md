@@ -19,12 +19,6 @@ Over 10 years of experience in designing and developing enterprise software, pri
 - 📞 Telecommunications
 - 🏦 Banking
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/andriantomanga-nabil-16359718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andriantomanga-nabil-16359718" height="30" width="40" /></a>
-<a href="https://instagram.com/andriannabs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andriannabs" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/https://www.youtube.com/@andriantomanganabil3943](https://www.youtube.com/@andriantomanganabil3943)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@andriantomanganabil3943" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andriantomanga&show_icons=true&locale=en&layout=compact" alt="andriantomanga" /></p>
 
