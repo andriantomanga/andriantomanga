@@ -4,9 +4,7 @@
 
 <p>
 Over 10 years of experience in designing and developing enterprise software, primarily using Java, Java EE, and Spring technologies.
-</p>
-<p>
-
+<br />
   Please check my <a href="https://linkedin.com/in/andriantomanga-nabil-16359718" target="blank">LinkedIn profile</a> to learn more about my technological and functional knowledge as well as my experiences.
 </p>
   
