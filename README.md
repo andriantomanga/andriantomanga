@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andriantomanga&label=Profile%20views&color=0e75b6&style=flat" alt="andriantomanga" /></p>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU0ajRteGFiMnFqeGpwa213cGMybTV3aTJjMjNlZzZiOXBwNXRpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif" alt="spring" width="40" height="40"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU0ajRteGFiMnFqeGpwa213cGMybTV3aTJjMjNlZzZiOXBwNXRpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif" alt="spring" width="400" height="400"/>
 
 <p>
 I have over 10 years of experience in designing and developing enterprise software, primarily using Java, Java EE, and Spring technologies.
