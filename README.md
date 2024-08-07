@@ -1,10 +1,13 @@
 ##  Nabil Andriantomanga
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andriantomanga&label=Profile%20views&color=0e75b6&style=flat" alt="andriantomanga" /> .
-Please check my LinkedIn profile to learn more about my technological and functional knowledge as well as my experiences.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andriantomanga&label=Profile%20views&color=0e75b6&style=flat" alt="andriantomanga" /></p>
 
 <p>
 Over 10 years of experience in designing and developing enterprise software, primarily using Java, Java EE, and Spring technologies.
+</p>
+<p>
+
+  Please check my <a href="https://linkedin.com/in/andriantomanga-nabil-16359718" target="blank">LinkedIn profile</a> to learn more about my technological and functional knowledge as well as my experiences.
 </p>
   
 <p>
