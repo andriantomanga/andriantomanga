@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andriantomanga&label=Profile%20views&color=0e75b6&style=flat" alt="andriantomanga" /></p>
 
 <p>
-Over 10 years of experience in designing and developing enterprise software, primarily using Java, Java EE, and Spring technologies.
+I have over 10 years of experience in designing and developing enterprise software, primarily using Java, Java EE, and Spring technologies.
 <br />
-  Please check my <a href="https://linkedin.com/in/andriantomanga-nabil-16359718" target="blank">LinkedIn profile</a> to learn more about my technological and functional knowledge as well as my experiences.
+Please visit my <a href="https://linkedin.com/in/andriantomanga-nabil-16359718" target="_blank" rel="noreferrer">LinkedIn profile</a> to learn more about my technical and functional expertise, as well as my professional experiences.
 </p>
   
 <p>
