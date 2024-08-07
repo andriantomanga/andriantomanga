@@ -20,5 +20,3 @@ Please visit my <a href="https://linkedin.com/in/andriantomanga-nabil-16359718" 
 - 🏦 Banking
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andriantomanga&show_icons=true&locale=en&layout=compact" alt="andriantomanga" /></p>
-
