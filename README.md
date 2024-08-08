@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andriantomanga&label=Profile%20views&color=0e75b6&style=flat" alt="andriantomanga" /></p>
 
-<p>[ <a href="https://linkedin.com/in/andriantomanga-nabil-16359718" target="_blank" rel="noreferrer">Linkedin</a> | <a href="https://play.google.com/store/apps/dev?id=6834476834453213332" target="_blank" rel="noreferrer">Google Play</a> | <a href="https://apkpure.net/developer/Nabil%20Andriantomanga" target="_blank" rel="noreferrer">Apkpure</a>]</p>
+<p>[ <a href="https://linkedin.com/in/andriantomanga-nabil-16359718" target="_blank" rel="noreferrer">Linkedin</a> | <a href="https://play.google.com/store/apps/dev?id=6834476834453213332" target="_blank" rel="noreferrer">Google Play</a> | <a href="https://apkpure.net/developer/Nabil%20Andriantomanga" target="_blank" rel="noreferrer">Apkpure</a> | <a href="https://www.facebook.com/andriantomanga.nabil" target="_blank" rel="noreferrer">Facebook</a>]</p>
 <p>
 I have over 10 years of experience in designing and developing enterprise software, primarily using Java, Java EE, and Spring technologies.
 <br />
