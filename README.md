@@ -20,6 +20,5 @@ I have over 10 years of experience in designing and developing enterprise softwa
 - 🛒 E-commerce
 - 🛡️ Insurance
 - 📞 Telecommunications
-- 🏦 Banking
 
 
